@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.custom-file, .btn {
+    display: block;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+}
